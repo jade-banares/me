@@ -12,7 +12,7 @@
 let allMusic = [
   {
     name: "Found this girl",
-    artist: "The vamps",
+    artist: "The Vamps",
     img: "music-1",
     src: "music-1"
   },
@@ -71,10 +71,10 @@ let allMusic = [
     src: "music-10"
   },
   {
-    name: "Can't Stop The Feeling",
-    artist: "Justin Timberlake",
-    img: "music-11",
-    src: "music-11"
+    name: "All Night ",
+    artist: "The Vamps",
+    img: "music-12",
+    src: "music-12"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
