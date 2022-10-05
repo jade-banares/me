@@ -84,3 +84,51 @@ let allMusic = [
   //   src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
   // }
 ];
+
+let allHillsong = [
+  {
+    name: "Heart Like Heaven",
+    artist: "United",
+    img: "music-13",
+    src: "music-13"
+  },
+  {
+    name: "Touch the Sky",
+    artist: "United",
+    img: "music-14",
+    src: "music-14"
+  },
+  {
+    name: "Broken Vessel (Amazing Grace)",
+    artist: "Hillsong Worship",
+    img: "music-15",
+    src: "music-15"
+  },
+  {
+    name: "Even When It Hurts",
+    artist: "Hillsong Worship",
+    img: "music-16",
+    src: "music-16"
+  },
+  {
+    name: "Say the Word",
+    artist: "United",
+    img: "music-17",
+    src: "music-17"
+  },
+];
+
+let allClassical = [
+  {
+    name: "String Quintet in E Major, G. 282: III. Minuetto - Trio",
+    artist: "Luigi Boccherini",
+    img: "music-18",
+    src: "music-18"
+  },
+  {
+    name: "String Quartet in F major II.  (Serenade)",
+    artist: "Hofstetter - Andante Cantabile",
+    img: "music-19",
+    src: "music-19"
+  },
+];
