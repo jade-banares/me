@@ -132,3 +132,63 @@ let allClassical = [
     src: "music-19"
   },
 ];
+
+let allOpm = [
+  {
+    name: "Tahanan",
+    artist: "Adie",
+    img: "music-20",
+    src: "music-20"
+  },
+  {
+    name: "Binhi",
+    artist: "Arthur Nery",
+    img: "music-21",
+    src: "music-21"
+  },
+  {
+    name: "Blue Sky",
+    artist: "Hale",
+    img: "music-22",
+    src: "music-22"
+  },
+  {
+    name: "Sandali na lang",
+    artist: "Hale",
+    img: "music-23",
+    src: "music-23"
+  },
+  {
+    name: "Kahit pa",
+    artist: "Hale",
+    img: "music-24",
+    src: "music-24"
+  },
+  {
+    name: "The Day You Said Goodnight",
+    artist: "Hale",
+    img: "music-25",
+    src: "music-25"
+  },
+  {
+    name: "Pagsamo",
+    artist: "Arthur Nery",
+    img: "music-26",
+    src: "music-26"
+  },
+  {
+    name: "Kumpas",
+    artist: "Moira Dela Torre",
+    img: "music-27",
+    src: "music-27"
+  }
+];
+
+let allKpop = [
+  {
+    name: "Crooked",
+    artist: "G-Dragon",
+    img: "music-28",
+    src: "music-28"
+  },
+];
