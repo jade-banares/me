@@ -131,6 +131,12 @@ let allClassical = [
     img: "music-19",
     src: "music-19"
   },
+  {
+    name: "Mozart Divertimento in D major K 136 1772",
+    artist: "Mozart",
+    img: "music-29",
+    src: "music-29"
+  },
 ];
 
 let allOpm = [
