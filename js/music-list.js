@@ -76,6 +76,24 @@ let allMusic = [
     img: "music-12",
     src: "music-12"
   },
+  {
+    name: "Terrified",
+    artist: "Katharine McPhee",
+    img: "music-30",
+    src: "music-30"
+  },
+  {
+    name: "Bloodstream",
+    artist: "The Chainsmokers",
+    img: "music-31",
+    src: "music-31"
+  },
+  {
+    name: "Wake up alone",
+    artist: "The Chainsmokers ft. Jhene Aiko",
+    img: "music-32",
+    src: "music-32"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
