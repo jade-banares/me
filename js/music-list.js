@@ -11,8 +11,8 @@
 
 let allMusic = [
   {
-    name: "Found this girl",
-    artist: "The Vamps",
+    name: "I Found A Girl",
+    artist: "The Vamps ft. Omi",
     img: "music-1",
     src: "music-1"
   },
@@ -212,6 +212,12 @@ let allKpop = [
   {
     name: "Crooked",
     artist: "G-Dragon",
+    img: "music-28",
+    src: "music-28"
+  },
+  {
+    name: "맨정신(SOBER)",
+    artist: "Bigbang",
     img: "music-28",
     src: "music-28"
   },
