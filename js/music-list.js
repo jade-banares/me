@@ -218,7 +218,7 @@ let allKpop = [
   {
     name: "맨정신(SOBER)",
     artist: "Bigbang",
-    img: "music-28",
-    src: "music-28"
+    img: "music-33",
+    src: "music-33"
   },
 ];
